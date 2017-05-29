@@ -1,6 +1,6 @@
-img{
+a.thumbnail > img {
     height: 200px;
-    width:200px;
+    width: 200px;
 }
 
 .page-header{
@@ -9,4 +9,9 @@ img{
 
 body{
     margin-bottom: 126px;
+    background-image: url(../images/treasure.jpg)
+}
+
+h1{
+    color: white;
 }
